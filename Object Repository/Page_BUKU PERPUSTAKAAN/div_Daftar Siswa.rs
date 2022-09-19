@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Daftar Siswa</name>
+   <tag></tag>
+   <elementGuidId>735f54f2-782d-45a3-a968-86d1000af97d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div/div/div/div[2]/div[2]/div[2]/div/div/div/div/div/div/div[2]/div/div[2]/div/div/div[4]/div/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d2bfee2f-37d4-4f22-bab1-a955f2a502f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>9e8de775-085d-48d8-8377-35f1cc75dbd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao css-bfa6kz r-cqee49 r-n6v787 r-16dba41 r-1cwl3u0 r-fdjqy7 r-lrvibr</value>
+      <webElementGuid>88aaddce-3d2f-4224-8fd3-c296c4a074cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar Siswa</value>
+      <webElementGuid>48956e05-d1ba-4b19-a1f7-41a376940561</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-18u37iz r-zso239&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-1p0dtai r-6koalj r-1d2f490 r-12vffkv r-u8s1d r-zchlnj r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n r-1p0dtai r-1d2f490 r-12vffkv r-u8s1d r-zchlnj r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-1niwhzg r-13awgt0 r-1udh08x r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-1d5kdc7&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-1d2f490 r-1udh08x&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-150rngu r-eqz5dr r-16y2uox r-1wbh5a2 r-11yh6sk r-1rnoaur r-1sncvnh&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1f0042m r-cqee49 r-1loqt21 r-n6v787 r-16dba41 r-17sp8yy r-1777fci r-1cwl3u0 r-vlx1xi r-edyy15 r-mk0yit r-rjfia r-bnwqim&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-1777fci r-y3xmzu r-1m04atk&quot;]/div[@class=&quot;css-901oao css-bfa6kz r-cqee49 r-n6v787 r-16dba41 r-1cwl3u0 r-fdjqy7 r-lrvibr&quot;]</value>
+      <webElementGuid>1e900f9d-9797-4944-b311-09cc069e6c5f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div/div/div/div[2]/div[2]/div[2]/div/div/div/div/div/div/div[2]/div/div[2]/div/div/div[4]/div/div[2]/div/div/div</value>
+      <webElementGuid>af81fc56-3f36-4bf0-8ac5-bd647b251fd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='󰅃'])[2]/following::div[4]</value>
+      <webElementGuid>ee626c0a-6ba3-4ecb-9e4f-fd1f2563ff74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Siswa'])[1]/following::div[6]</value>
+      <webElementGuid>ff98da52-a1c3-4066-95b0-d62f305fe8e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mutasi'])[1]/preceding::div[1]</value>
+      <webElementGuid>971ffae0-e6e3-40f9-ad92-4d09525bac8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='󰅂'])[6]/preceding::div[3]</value>
+      <webElementGuid>41329654-5b61-4085-bb41-da269ed6ec56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daftar Siswa']/parent::*</value>
+      <webElementGuid>4457558d-e910-42da-9111-9a8a1558e730</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[4]/div/div[2]/div/div/div</value>
+      <webElementGuid>d8a52e86-2d17-4239-8413-83752d422939</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Daftar Siswa' or . = 'Daftar Siswa')]</value>
+      <webElementGuid>f883597b-988b-49c0-9cee-6b937184fa23</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

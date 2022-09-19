@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Ubah</name>
+   <tag></tag>
+   <elementGuidId>0cbf7dc3-29da-4906-94f4-cadfb7a804b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-1loqt21.r-h3s6tt.r-1777fci.r-12upozd.r-8n0zxx.r-1pn2ns4.r-bnwqim > div.css-1dbjc4n.r-18u37iz</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[13]/div[2]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c22582b6-f449-4064-a160-9e9096883efd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1dbjc4n r-18u37iz</value>
+      <webElementGuid>393abde0-e5c4-4c45-a643-495d51d0746f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ubah</value>
+      <webElementGuid>bc27eb7d-67ef-463d-8e26-887d31808f20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-1p0dtai r-1d2f490 r-12vffkv r-u8s1d r-zchlnj r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n r-12vffkv r-u8s1d&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-5njf8e&quot;]/div[@class=&quot;css-1dbjc4n r-1loqt21 r-h3s6tt r-1777fci r-12upozd r-8n0zxx r-1pn2ns4 r-bnwqim&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz&quot;]</value>
+      <webElementGuid>11da5fc0-90fa-4a97-ace0-395472214ca0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[13]/div[2]/div/div/div/div</value>
+      <webElementGuid>8a6cbe8c-be79-4557-a05a-22a9e2da70a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EMIS'])[4]/following::div[93]</value>
+      <webElementGuid>7fd08a75-b628-4b23-a989-88f1a4e978e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Detail'])[3]/preceding::div[3]</value>
+      <webElementGuid>4ff2387e-10da-4c65-8d01-f4d1eefcab50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div[2]/div/div/div/div</value>
+      <webElementGuid>092257a5-2559-418e-a04c-935138f1189c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Ubah' or . = 'Ubah')]</value>
+      <webElementGuid>2cac9cb7-d4a1-4f90-b156-8a29dc44f664</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

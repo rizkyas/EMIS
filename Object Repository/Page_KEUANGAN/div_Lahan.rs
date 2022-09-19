@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Lahan</name>
+   <tag></tag>
+   <elementGuidId>59ec51b9-8671-4e93-82e3-3a0b15fe661d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='klik disini'])[1]/following::div[25]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-14lw9ot.r-1ftlef7.r-1f0042m.r-1544tr9.r-u8s1d > div.css-1dbjc4n > div.css-1dbjc4n > div.css-1dbjc4n.r-1loqt21.r-1otgn73.r-1i6wzkk.r-lrvibr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1d2fb0b3-d48e-4d35-8b27-84bc8f5afa62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>e41f7728-b99d-4493-b1f7-24f5eb3853d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1dbjc4n r-1loqt21 r-1otgn73 r-1i6wzkk r-lrvibr</value>
+      <webElementGuid>d92a01f9-5aa0-4f76-9dcf-49fa4db84ca0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lahan</value>
+      <webElementGuid>23ea3f32-ee38-43f0-a1b9-82b9f8276698</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[7]/div[@class=&quot;r-1p0dtai r-1d2f490 r-1xcajam r-zchlnj r-ipm5af r-sfbmgh&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1niwhzg r-1p0dtai r-1d2f490 r-1xcajam r-zchlnj r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n r-1niwhzg r-1p0dtai r-1d2f490 r-12vffkv r-u8s1d r-zchlnj r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-1d2f490 r-12vffkv r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-1ftlef7 r-1f0042m r-1544tr9 r-u8s1d&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1loqt21 r-1otgn73 r-1i6wzkk r-lrvibr&quot;]</value>
+      <webElementGuid>07c0389f-09fe-4e98-ba71-56e149bc7dad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='klik disini'])[1]/following::div[25]</value>
+      <webElementGuid>f6960c19-f2cf-4552-8eb1-9cd61531f316</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gedung'])[1]/preceding::div[2]</value>
+      <webElementGuid>e17ee5b1-faca-4c37-acf4-e4a5290f0b0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div[2]/div/div/div/div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>a39b8d5a-4b60-4610-ae9d-71b5f832bd98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Lahan' or . = 'Lahan')]</value>
+      <webElementGuid>a788fe4a-c4f9-4b08-bbf8-2e4f59fad3b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

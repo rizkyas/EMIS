@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tutup</name>
+   <tag></tag>
+   <elementGuidId>c389b3de-84ff-46aa-a359-53cde27b6fa5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-1yadl64.r-zso239 > div.css-18t94o4.css-1dbjc4n.r-1loqt21.r-1udh08x.r-bnwqim > div.css-1dbjc4n.r-1awozwy.r-18u37iz.r-1777fci > div.css-901oao.css-bfa6kz.r-ud0q2t.r-1ydw1k6.r-712mwr.r-q4m81j.r-tsynxw.r-lrvibr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[13]/div/div[2]/div/div/div/div/div/div/div[3]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d369b4d1-302c-459c-b69d-74d8576b8d2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>1386ff39-4f45-4102-9eb6-5fe63e018f70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao css-bfa6kz r-ud0q2t r-1ydw1k6 r-712mwr r-q4m81j r-tsynxw r-lrvibr</value>
+      <webElementGuid>0df2de54-375b-4850-9135-9e238896fca9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tutup</value>
+      <webElementGuid>ecb7274b-0a0f-48aa-91d8-4a40644423df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-1p0dtai r-1d2f490 r-12vffkv r-u8s1d r-zchlnj r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n r-1p0dtai r-1d2f490 r-105ug2t r-u8s1d r-zchlnj r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n r-1p0dtai r-1777fci r-1d2f490 r-p1pxzi r-12vffkv r-u8s1d r-zchlnj r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n r-1kihuf0 r-14lw9ot&quot;]/div[@class=&quot;css-1dbjc4n r-qklmqi r-ai505k r-5kkj8d r-16y2uox r-1wbh5a2 r-1guathk&quot;]/div[@class=&quot;css-1dbjc4n r-150rngu r-eqz5dr r-16y2uox r-1wbh5a2 r-11yh6sk r-1rnoaur r-1sncvnh&quot;]/div[@class=&quot;css-1dbjc4n r-1guathk&quot;]/div[@class=&quot;css-1dbjc4n r-eqz5dr&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-13awgt0 r-eqz5dr&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-13awgt0 r-18u37iz r-1777fci r-117bsoe r-1x0uki6&quot;]/div[@class=&quot;css-1dbjc4n r-1yadl64 r-zso239&quot;]/div[@class=&quot;css-18t94o4 css-1dbjc4n r-1loqt21 r-1udh08x r-bnwqim&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-1777fci&quot;]/div[@class=&quot;css-901oao css-bfa6kz r-ud0q2t r-1ydw1k6 r-712mwr r-q4m81j r-tsynxw r-lrvibr&quot;]</value>
+      <webElementGuid>5541c6ac-706a-4cea-bbd8-7b8e360558d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[13]/div/div[2]/div/div/div/div/div/div/div[3]/div/div/div/div</value>
+      <webElementGuid>9c965918-b096-4350-bb1d-f3f4e32f23ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Anda berhasil di simpan'])[1]/following::div[5]</value>
+      <webElementGuid>f38f90e6-dfcc-4d85-92c3-831547842304</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='klik disini'])[1]/preceding::div[2]</value>
+      <webElementGuid>f2e59add-d9a0-453e-9571-1be6f2fed429</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tutup']/parent::*</value>
+      <webElementGuid>2c67364e-c2d3-4a5c-9e8a-574374d2989b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div/div[2]/div/div/div/div/div/div/div[3]/div/div/div/div</value>
+      <webElementGuid>23c40848-fee0-45b9-b8df-e1bf970681a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tutup' or . = 'Tutup')]</value>
+      <webElementGuid>080294e8-1482-4c75-b297-f46159ee2806</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

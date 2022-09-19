@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Ruangan</name>
+   <tag></tag>
+   <elementGuidId>04fc9bf5-653f-4656-9bce-bb4b78fae13b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Gedung'])[3]/following::div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>36278b17-2684-4306-a8b7-b3213d44b105</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>33480f50-9960-49cb-b062-a6fd67bb4b4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao r-cqee49 r-n6v787 r-16dba41 r-1cwl3u0 r-fdjqy7</value>
+      <webElementGuid>c64ae514-ec96-4be8-b957-b6943210337f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ruangan</value>
+      <webElementGuid>93eb6b55-c4d2-4ef4-83a8-9dd34101326c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[6]/div[@class=&quot;r-1p0dtai r-1d2f490 r-1xcajam r-zchlnj r-ipm5af r-sfbmgh&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1niwhzg r-1p0dtai r-1d2f490 r-1xcajam r-zchlnj r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n r-1niwhzg r-1p0dtai r-1d2f490 r-12vffkv r-u8s1d r-zchlnj r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-1d2f490 r-12vffkv r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-1ftlef7 r-1f0042m r-1544tr9 r-u8s1d&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1loqt21 r-1otgn73 r-1i6wzkk r-lrvibr&quot;]/div[@class=&quot;css-901oao r-cqee49 r-n6v787 r-16dba41 r-1cwl3u0 r-fdjqy7&quot;]</value>
+      <webElementGuid>f24afd9f-f02e-4d94-81af-a392cf71cdfe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gedung'])[3]/following::div[3]</value>
+      <webElementGuid>9dcdad4a-5713-482c-900d-176345a2089d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lahan'])[1]/following::div[6]</value>
+      <webElementGuid>b9533fa8-242d-4036-954e-1a15eda8685a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ruangan']/parent::*</value>
+      <webElementGuid>ca2b0884-df2a-4c5a-9880-e5d01ae993d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[2]/div/div/div/div[2]/div[2]/div/div/div[3]/div/div</value>
+      <webElementGuid>1ca3856e-79b8-4288-9613-f65affcbb7b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Ruangan' or . = 'Ruangan')]</value>
+      <webElementGuid>ea8c4938-940b-4492-88c1-fcff1fd34788</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

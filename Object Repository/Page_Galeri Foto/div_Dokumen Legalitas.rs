@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Dokumen Legalitas</name>
+   <tag></tag>
+   <elementGuidId>92beb596-d2e4-4470-8650-0c54228ac765</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div/div/div/div[2]/div[2]/div[2]/div/div/div/div/div/div/div/div/div/div[2]/div[2]/div[3]/div/div[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ceb9400c-c886-43fd-81da-b042541667d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>a4f8a1a3-c8f6-4e18-ab28-f501451efea8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao r-q4m81j r-tsynxw</value>
+      <webElementGuid>3f622443-a88d-4a88-9f97-6924874b0a97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dokumen Legalitas</value>
+      <webElementGuid>4275556b-1eb4-4b55-8114-a98c78e915d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-18u37iz r-zso239&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-1p0dtai r-6koalj r-1d2f490 r-12vffkv r-u8s1d r-zchlnj r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n r-1p0dtai r-1d2f490 r-12vffkv r-u8s1d r-zchlnj r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-1niwhzg r-13awgt0 r-1udh08x r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-1d5kdc7&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-1niwhzg r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-1p0dtai r-6koalj r-13awgt0 r-1d2f490 r-105ug2t r-u8s1d r-zchlnj r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-1udh08x&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-14lw9ot r-1dzdj1l r-18u37iz r-1777fci r-117bsoe&quot;]/div[@class=&quot;css-18t94o4 css-1dbjc4n r-14lw9ot r-1dzdj1l r-1loqt21 r-13awgt0 r-1otgn73 r-1i6wzkk r-lrvibr&quot;]/div[@class=&quot;css-901oao r-q4m81j r-tsynxw&quot;]</value>
+      <webElementGuid>1818d0e1-0eb3-4633-ac74-420f16b48fd2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div/div/div/div[2]/div[2]/div[2]/div/div/div/div/div/div/div/div/div/div[2]/div[2]/div[3]/div/div[4]/div</value>
+      <webElementGuid>54cec7c8-be66-4b6b-93b5-01bd6a01d712</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Galeri Foto'])[2]/following::div[2]</value>
+      <webElementGuid>a6856e36-c91f-42d4-89b0-543bf73dd631</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lokasi'])[1]/following::div[4]</value>
+      <webElementGuid>a3fde53f-1e4a-40f2-a533-0c36c6b463c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personel'])[1]/preceding::div[1]</value>
+      <webElementGuid>6c655026-95c8-4aaf-85bf-323480e95a71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prestasi'])[1]/preceding::div[3]</value>
+      <webElementGuid>060cff36-bcc6-4708-9820-2eeb21c6127f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dokumen Legalitas']/parent::*</value>
+      <webElementGuid>c61af4a5-6451-4969-a8cc-1c753af29196</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[4]/div</value>
+      <webElementGuid>8d158dfc-6c35-4284-aad8-edfbdea2688b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Dokumen Legalitas' or . = 'Dokumen Legalitas')]</value>
+      <webElementGuid>904d08ad-7114-43c3-bda7-9fad72aee876</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

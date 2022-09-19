@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Bantuan Operasional</name>
+   <tag></tag>
+   <elementGuidId>e1bee91f-f08a-4261-a4f5-64edf1105e48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div/div/div/div[2]/div[2]/div[2]/div/div/div/div/div/div/div/div/div/div[2]/div[2]/div[3]/div/div[7]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>65811e35-3311-48ea-888a-c55b32bf8dc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>802810f8-7090-480b-9c45-924f74451541</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao r-q4m81j r-tsynxw</value>
+      <webElementGuid>f13bc28c-b73e-4a30-a82e-93a472b1eda1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bantuan Operasional</value>
+      <webElementGuid>25d7a2f6-26ff-4d33-a324-3d05e8f44c18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-18u37iz r-zso239&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-1p0dtai r-6koalj r-1d2f490 r-12vffkv r-u8s1d r-zchlnj r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n r-1p0dtai r-1d2f490 r-12vffkv r-u8s1d r-zchlnj r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-1niwhzg r-13awgt0 r-1udh08x r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-1d5kdc7&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-1niwhzg r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-1p0dtai r-6koalj r-13awgt0 r-1d2f490 r-105ug2t r-u8s1d r-zchlnj r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-1udh08x&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-14lw9ot r-1dzdj1l r-18u37iz r-1777fci r-117bsoe&quot;]/div[@class=&quot;css-18t94o4 css-1dbjc4n r-14lw9ot r-1dzdj1l r-1loqt21 r-13awgt0 r-1otgn73 r-1i6wzkk r-lrvibr&quot;]/div[@class=&quot;css-901oao r-q4m81j r-tsynxw&quot;]</value>
+      <webElementGuid>58c2fa9d-e052-4d5b-8b5c-c25e28b45541</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div/div/div/div[2]/div[2]/div[2]/div/div/div/div/div/div/div/div/div/div[2]/div[2]/div[3]/div/div[7]/div</value>
+      <webElementGuid>26dbce4f-f97e-4c59-969e-8c7cbf70f04e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prestasi'])[2]/following::div[2]</value>
+      <webElementGuid>879bf317-70fc-499b-905a-1ea2f93fd4d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personel'])[1]/following::div[4]</value>
+      <webElementGuid>a9fa3ecc-3195-4d8e-b953-3bd6581b6a27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Identitas Lembaga Penyelenggara Pendidikan'])[1]/preceding::div[1]</value>
+      <webElementGuid>49750407-8475-4a24-8e52-e9d46cc655c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NPSN'])[2]/preceding::div[5]</value>
+      <webElementGuid>342a8089-e36e-4474-b6c8-39d63b67d4c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bantuan Operasional']/parent::*</value>
+      <webElementGuid>a0d46ff0-cb94-4b07-80bc-11b0355ddfc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[7]/div</value>
+      <webElementGuid>123739e7-c56b-4544-9c34-a576647a35f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Bantuan Operasional' or . = 'Bantuan Operasional')]</value>
+      <webElementGuid>93af46f8-8450-4942-ac08-1d8f3ab54a69</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
