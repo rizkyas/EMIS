@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Apakah anda yakin untuk menyetujui perm_6201aa</name>
+   <tag></tag>
+   <elementGuidId>3dfc7a7a-c609-4947-b3e2-33fa8cd34c0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-901oao.r-1awozwy.r-17cocza.r-1i10wst.r-q4m81j</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[32]/div/div[2]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>73ad2745-0a04-4b0a-b3d0-122d92d66f99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>d4d4a6dd-ad02-4b75-8d03-7fdb3d84761b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao r-1awozwy r-17cocza r-1i10wst r-q4m81j</value>
+      <webElementGuid>6620e1a2-4094-4e4c-b7ec-94dc7eac28b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apakah anda yakin untuk menyetujui permintaan akun?</value>
+      <webElementGuid>d0538f8a-8b08-4190-a51d-eea81b531b78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-1p0dtai r-1d2f490 r-12vffkv r-u8s1d r-zchlnj r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n r-1p0dtai r-1d2f490 r-105ug2t r-u8s1d r-zchlnj r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n r-1p0dtai r-1777fci r-1d2f490 r-12vffkv r-u8s1d r-zchlnj r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n r-1kihuf0 r-14lw9ot r-1dzdj1l r-1h0z5md&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-eqz5dr&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-901oao r-1awozwy r-17cocza r-1i10wst r-q4m81j&quot;]</value>
+      <webElementGuid>20aa98cd-527f-4ee2-9695-9149cc80a2ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[32]/div/div[2]/div/div/div/div</value>
+      <webElementGuid>c24f3b99-49a6-47c8-a766-d5dd31a46e39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EMIS'])[4]/following::div[473]</value>
+      <webElementGuid>f8e279f4-c7d5-41fa-8ecb-0ef4b2bfc0e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/preceding::div[2]</value>
+      <webElementGuid>09c5d05e-e1d7-4879-8e8f-a576108ca521</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ya'])[1]/preceding::div[7]</value>
+      <webElementGuid>519d1d4a-d277-45c9-a7f0-295c38ea9b68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Apakah anda yakin untuk menyetujui permintaan akun?']/parent::*</value>
+      <webElementGuid>78f12c89-f5d2-480d-b9ed-2b1c4486c5bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[32]/div/div[2]/div/div/div/div</value>
+      <webElementGuid>35ef4438-3ebf-416a-8dc9-93c2e1c35c2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Apakah anda yakin untuk menyetujui permintaan akun?' or . = 'Apakah anda yakin untuk menyetujui permintaan akun?')]</value>
+      <webElementGuid>5fd71146-a183-43bb-b1da-3b15cbe4eef5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -15,7 +15,7 @@
       <guid>020facbf-3a87-4724-ac79-1a43d97575a6</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login/Kristen/TC-Login_operator_sdtk</testCaseId>
+      <testCaseId>Test Cases/Login/Kristen/Operator/TC-Login_operator_sdtk</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

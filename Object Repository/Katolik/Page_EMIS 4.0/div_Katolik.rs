@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Katolik</name>
+   <tag></tag>
+   <elementGuidId>511bc454-9d83-4da4-b256-e496540a66b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>html body div#root div.css-1dbjc4n.r-13awgt0.r-12vffkv div.css-1dbjc4n.r-13awgt0.r-12vffkv div.css-1dbjc4n.r-1p0dtai.r-1d2f490.r-12vffkv.r-u8s1d.r-zchlnj.r-ipm5af div.css-1dbjc4n.r-12vffkv.r-u8s1d div.css-1dbjc4n div.css-1dbjc4n div.css-1dbjc4n.r-1awozwy.r-1777fci div.css-1dbjc4n.r-18u37iz div.css-1dbjc4n div.css-1dbjc4n.r-1loqt21.r-bnwqim div.css-901oao</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']//div[@class='css-1dbjc4n r-12vffkv r-u8s1d']/div[@class='css-1dbjc4n']/div[@class='css-1dbjc4n']/div/div[3]/div[1]/div[2]/div[@class='css-901oao']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Katolik' or . = 'Katolik')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ac6c2374-b14f-4c0d-bcc6-8041f112e60a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>2a04c9ae-90cb-462e-b72b-cb4c033372dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao</value>
+      <webElementGuid>a748faf7-3781-410b-acdd-2a6e417bb32a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Katolik</value>
+      <webElementGuid>f1697f54-a02e-463b-8ba7-ea3dc4c983dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-1p0dtai r-1d2f490 r-12vffkv r-u8s1d r-zchlnj r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n r-12vffkv r-u8s1d&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-1777fci&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1loqt21 r-bnwqim&quot;]/div[@class=&quot;css-901oao&quot;]</value>
+      <webElementGuid>a25d1502-16db-407f-9548-bb0f0e090f81</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[31]/div[2]/div/div/div/div[3]/div/div[2]/div</value>
+      <webElementGuid>bbb7b7ea-df5b-4bd5-8c0f-1651cb6d4d51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kristen'])[1]/following::div[2]</value>
+      <webElementGuid>2abc542f-18ee-48d6-8f2f-c4e1231847d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PENDIS'])[1]/following::div[7]</value>
+      <webElementGuid>957f066a-c918-468c-85f0-4ee38019fb91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buddha'])[1]/preceding::div[1]</value>
+      <webElementGuid>25661979-87c6-4a1b-9377-053edf7850d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hindu'])[1]/preceding::div[3]</value>
+      <webElementGuid>edd0446d-c8de-4ab6-9ec7-3aafc6990bae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Katolik']/parent::*</value>
+      <webElementGuid>e3e42fd1-99d8-4e22-8ee0-a5ec41882d9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div</value>
+      <webElementGuid>990498d0-e1e8-405f-ab7d-ffd44022b78f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Katolik' or . = 'Katolik')]</value>
+      <webElementGuid>7652344d-90fa-415e-b272-a824e3710083</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

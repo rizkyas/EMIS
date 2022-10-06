@@ -14,7 +14,7 @@
          <value>div.css-901oao.css-bfa6kz.r-ud0q2t.r-1ydw1k6.r-712mwr.r-q4m81j.r-tsynxw.r-lrvibr</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>28b5250f-8213-40cf-902f-118097affbb3</webElementGuid>
+      <webElementGuid>06d8642c-2b84-434a-8ac5-0aa05a794c1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>dir</name>
       <type>Main</type>
       <value>auto</value>
-      <webElementGuid>14cea5da-3202-4c75-9cfc-bcb2b2415e8f</webElementGuid>
+      <webElementGuid>e4f24141-2a17-4f47-9a20-2ed181f32424</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>css-901oao css-bfa6kz r-ud0q2t r-1ydw1k6 r-712mwr r-q4m81j r-tsynxw r-lrvibr</value>
-      <webElementGuid>86b5fdd3-3e27-4974-adfc-1aec07ae1095</webElementGuid>
+      <webElementGuid>f9d843a7-1b79-443e-9e59-a513c3475660</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Login</value>
-      <webElementGuid>3594e19d-b1a1-4adf-baf0-d326a37a85e9</webElementGuid>
+      <webElementGuid>8bf7761b-e982-4deb-a599-66e6d663f36b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-18u37iz&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-1p0dtai r-6koalj r-1d2f490 r-12vffkv r-u8s1d r-zchlnj r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n r-1p0dtai r-1d2f490 r-12vffkv r-u8s1d r-zchlnj r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-1niwhzg r-13awgt0 r-1udh08x&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-1d5kdc7&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-m13sdg r-1wtj0ep r-1d2f490 r-u8s1d r-zchlnj r-ipm5af r-mhe3cw&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-1wtj0ep&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-yen7m r-17s6mgv&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-18t94o4 css-1dbjc4n r-1loqt21 r-1udh08x r-bnwqim&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-1777fci&quot;]/div[@class=&quot;css-901oao css-bfa6kz r-ud0q2t r-1ydw1k6 r-712mwr r-q4m81j r-tsynxw r-lrvibr&quot;]</value>
-      <webElementGuid>07312094-7305-4909-ac21-e2009a53f39a</webElementGuid>
+      <webElementGuid>f1f41c49-caba-4e7d-9589-9429d9175027</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div/div/div/div/div/div/div/div[2]/div[2]/div/div/div/div/div/div/div[2]/div[2]/div/div/div/div</value>
-      <webElementGuid>0b9ba705-2816-43b4-a1cf-9d232270f2dc</webElementGuid>
+      <webElementGuid>32077820-4f7c-4526-96a4-46f1a80d1493</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Panduan Penggunaan'])[1]/following::div[5]</value>
-      <webElementGuid>cabbaeec-40d0-4a9a-8e91-d9df052b9f6a</webElementGuid>
+      <webElementGuid>aad71331-17e6-4bc9-b753-77b6b6614c6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengumuman Penting'])[1]/following::div[7]</value>
-      <webElementGuid>af68f991-ecfa-4b43-bd40-c334f36a9db9</webElementGuid>
+      <webElementGuid>cbd4ae0c-0b64-4499-8f62-258f8f27d35b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='GERBANG DATA PENDIDIKAN KEMENTERIAN AGAMA'])[1]/preceding::div[5]</value>
-      <webElementGuid>a303a4a2-0cd7-4623-859d-76b9193c9020</webElementGuid>
+      <webElementGuid>851b0f23-ed53-43b6-babc-17a874a33c60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('What', &quot;'&quot;, 's new on')])[1]/preceding::div[13]</value>
-      <webElementGuid>b9130bd3-25ce-45a6-bfbb-b4b8117748e0</webElementGuid>
+      <webElementGuid>27562505-2844-4026-9189-ca53a9f64509</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
-      <webElementGuid>ff3a21d0-7f87-4259-9ca5-d6109526bf45</webElementGuid>
+      <webElementGuid>9331c6b3-6fb2-4c99-93f8-09f25cd02d35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/div/div/div[2]/div[2]/div/div/div/div</value>
-      <webElementGuid>8614d0db-91bd-4c1f-bd97-eb300735b579</webElementGuid>
+      <webElementGuid>93db9698-f590-4286-8f3d-4981b60506a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Login' or . = 'Login')]</value>
-      <webElementGuid>52b24eaf-85d8-47b9-aac1-003a2832aed3</webElementGuid>
+      <webElementGuid>56b368f1-4a09-4239-b64a-07dde09d40eb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

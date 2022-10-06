@@ -33,7 +33,7 @@ class TLEMIS {
 	def sampleBeforeTestCase(TestCaseContext testCaseContext) {
 		println testCaseContext.getTestCaseId()
 		println testCaseContext.getTestCaseVariables()
-		
+		//WebUI.openBrowser(GlobalVariable.URL_DEV)
 	}
 
 	/**

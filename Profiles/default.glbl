@@ -9,4 +9,34 @@
       <initValue>'https://devapp-pendidikan.kemenag.go.id/'</initValue>
       <name>URL_DEV</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Operator SDTK Swasta</description>
+      <initValue>'pengelola_sdtk_swasta@emis.com'</initValue>
+      <name>User_sdtk_swasta</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Password Dev</description>
+      <initValue>'R3l3Ase!23'</initValue>
+      <name>Pass_sdtk_swasta</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Operator SDTK Negeri</description>
+      <initValue>'pengelola_sdtk_negeri@emis.com'</initValue>
+      <name>User_sdtk</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Operator SMTK Negeri</description>
+      <initValue>'pengelola_smptk_negeri@emis.com'</initValue>
+      <name>User_smptk</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Operator SMTK Swasta</description>
+      <initValue>'pengelola_smptk_swasta@emis.com'</initValue>
+      <name>User_smptk_swasta</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Kemenag Prov Dki</description>
+      <initValue>'kemenag_prov_dki_kristen@emis.com'</initValue>
+      <name>User_kemenag_dki</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

@@ -6,15 +6,15 @@
    <elementGuidId>4ed76ab2-50f7-4eae-b693-ffbe2abc2099</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/div/div/div/div/div/div/div/div/div[2]/div[2]/div[2]/div/div/div/div/div/div/div/div/div[2]/div[3]/div[2]/div/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.css-1dbjc4n.r-13qz1uu > div.css-18t94o4.css-1dbjc4n.r-1loqt21.r-1udh08x.r-bnwqim > div.css-1dbjc4n.r-1awozwy.r-18u37iz.r-1777fci</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div/div/div/div[2]/div[2]/div[2]/div/div/div/div/div/div/div/div/div[2]/div[3]/div[2]/div/div</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>81c618a2-779f-4b4c-a8b3-4194f1c1e45f</webElementGuid>
+      <webElementGuid>42f70e7a-6428-4061-98b1-463709090463</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>css-1dbjc4n r-1awozwy r-18u37iz r-1777fci</value>
-      <webElementGuid>588525a3-ba31-435e-b1bb-bef8203f0067</webElementGuid>
+      <webElementGuid>43f76d19-6b6a-4bf0-8b6b-654dff7f3255</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Login</value>
-      <webElementGuid>079fbc67-0fd7-4ef9-93c0-b2540f1fe9b8</webElementGuid>
+      <webElementGuid>d73a5c12-e255-4a7d-a4b5-f734911b937b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-18u37iz&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-1p0dtai r-6koalj r-1d2f490 r-12vffkv r-u8s1d r-zchlnj r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n r-1p0dtai r-1d2f490 r-12vffkv r-u8s1d r-zchlnj r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-1niwhzg r-13awgt0 r-1udh08x r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-1d5kdc7&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-150rngu r-13awgt0 r-eqz5dr r-16y2uox r-1wbh5a2 r-zh076v r-11yh6sk r-1rnoaur r-2eszeu r-1sncvnh r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-18u37iz r-1w50u8q r-u8s1d r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-1kihuf0 r-13awgt0 r-1777fci&quot;]/div[@class=&quot;css-1dbjc4n r-1777fci&quot;]/div[@class=&quot;css-1dbjc4n r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-13qz1uu&quot;]/div[@class=&quot;css-18t94o4 css-1dbjc4n r-1loqt21 r-1udh08x r-bnwqim&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-1777fci&quot;]</value>
-      <webElementGuid>2b188bff-4839-4ea9-be56-2f0400d3611a</webElementGuid>
+      <webElementGuid>250c5a1d-fe93-4962-af3e-5a96a785f1c2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div/div/div/div/div/div/div[2]/div[2]/div[2]/div/div/div/div/div/div/div/div/div[2]/div[3]/div[2]/div/div</value>
-      <webElementGuid>fbaebb3f-b718-49a3-8b59-942e9e14b0aa</webElementGuid>
+      <webElementGuid>d540843e-0114-4bc7-b8eb-1efb322943da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='󰈈'])[1]/following::div[12]</value>
-      <webElementGuid>b2eb32a6-eb73-440a-bbb0-5c40440757a7</webElementGuid>
+      <webElementGuid>174886cc-112b-4f95-a412-98879a650632</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[3]/following::div[16]</value>
-      <webElementGuid>9b1f6a77-9cf5-4ba9-959f-6212af8a96fe</webElementGuid>
+      <webElementGuid>67aee4f3-66f8-4a16-b5b0-cb0d7725851f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa password?'])[1]/preceding::div[3]</value>
-      <webElementGuid>bfbfbd1c-7147-47d6-8fc2-e9761d9f1fcb</webElementGuid>
+      <webElementGuid>2b16207a-6a7a-4210-a80d-f82b39dd0919</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/div/div/div/div/div[2]/div[3]/div[2]/div/div</value>
-      <webElementGuid>aff26f06-4894-42a8-8d6e-362539d1b1a3</webElementGuid>
+      <webElementGuid>d6f88b0c-a137-4203-adc5-4ccb33604936</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Login' or . = 'Login')]</value>
-      <webElementGuid>8524ed40-d431-452a-bcad-c31cc034bd6f</webElementGuid>
+      <webElementGuid>14b410f8-e5fb-4d05-9fec-5d4a2108c280</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
